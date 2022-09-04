@@ -1,1 +1,1 @@
-# DigitalSix
+# Digital Six
